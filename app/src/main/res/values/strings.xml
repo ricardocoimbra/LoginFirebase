@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LoginFirebase</string>
+    <string name="text_logout">Sair</string>
+    <string name="home">Home</string>
 </resources>
